@@ -1,7 +1,7 @@
 Current status:
 ```
 - SANs
-- CompCert
+- CompCert (INTERP)
 - -fanalyzer
 - TIS-INTERP
 - Monocypher
